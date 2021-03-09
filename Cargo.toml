@@ -1,0 +1,7 @@
+[package]
+name = "greeko"
+version = "0.1.0"
+authors = ["arshiamidos <arshiamidos@gmail.com>"]
+edition = "2018"
+
+[dependencies]
